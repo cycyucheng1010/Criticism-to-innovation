@@ -24,3 +24,5 @@
 ![image](https://user-images.githubusercontent.com/62127656/156890985-e669d94e-f159-41c2-8354-859082a7cb58.png)
 #### 什麼叫工業革命
 ![image](https://user-images.githubusercontent.com/62127656/156891090-4e15c8d1-0780-4082-9dbc-3ab785c0f612.png)
+### 縮小研究範圍→研究結論較精確、嚴謹、可靠
+![image](https://user-images.githubusercontent.com/62127656/156891214-416d11cb-9247-43b8-9668-b57b5b914f15.png)

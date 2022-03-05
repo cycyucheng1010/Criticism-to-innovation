@@ -1,2 +1,2 @@
-# Criticism-to-innovation
-something I wanna note
+# 批判到創新
+## 用別人的智慧，解決你的問題

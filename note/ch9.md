@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/62127656/157157184-048a9850-bbac-406d-86d1-cb5716093dbb.png)
 > 但汽油約70%損耗，能源效率25%
-## 文獻回顧 (搜尋、篩選、)
+## 文獻回顧 (搜尋、篩選)
 ### 電動車取代汽油引擎的機會與突破
 * google **electrical car conveentional car compare filetype:pdf site:.edu** --> 焦點過度明確，導致範圍太窄
 * google **electrical car conveentional car compare filetype:pdf** --> 有許多科普級文件
